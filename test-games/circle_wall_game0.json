@@ -1,0 +1,3993 @@
+{
+  "field": {
+    "0": null,
+    "39": null,
+    "78": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -2,
+          "y": 2,
+          "z": 0
+        }
+      },
+      "isBase": false
+    },
+    "117": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -3,
+          "y": 3,
+          "z": 0
+        }
+      },
+      "isBase": false
+    },
+    "156": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -4,
+          "y": 4,
+          "z": 0
+        }
+      },
+      "isBase": false
+    },
+    "195": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -5,
+          "y": 5,
+          "z": 0
+        }
+      },
+      "isBase": false
+    },
+    "234": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -6,
+          "y": 6,
+          "z": 0
+        }
+      },
+      "isBase": false
+    },
+    "273": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "18",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -7,
+          "y": 7,
+          "z": 0
+        }
+      },
+      "isBase": false
+    },
+    "312": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -8,
+          "y": 8,
+          "z": 0
+        }
+      },
+      "isBase": false
+    },
+    "351": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -9,
+          "y": 9,
+          "z": 0
+        }
+      },
+      "isBase": false
+    },
+    "1248": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 8,
+          "y": -9,
+          "z": 1
+        }
+      },
+      "isBase": false
+    },
+    "1287": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 7,
+          "y": -8,
+          "z": 1
+        }
+      },
+      "isBase": false
+    },
+    "1326": null,
+    "1365": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 5,
+          "y": -6,
+          "z": 1
+        }
+      },
+      "isBase": false
+    },
+    "1404": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 4,
+          "y": -5,
+          "z": 1
+        }
+      },
+      "isBase": false
+    },
+    "1443": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 3,
+          "y": -4,
+          "z": 1
+        }
+      },
+      "isBase": false
+    },
+    "1482": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "14",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 2,
+          "y": -3,
+          "z": 1
+        }
+      },
+      "isBase": false
+    },
+    "1521": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 1,
+          "y": -2,
+          "z": 1
+        }
+      },
+      "isBase": false
+    },
+    "1560": null,
+    "1599": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -1,
+          "y": 0,
+          "z": 1
+        }
+      },
+      "isBase": false
+    },
+    "1638": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -2,
+          "y": 1,
+          "z": 1
+        }
+      },
+      "isBase": false
+    },
+    "1677": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -3,
+          "y": 2,
+          "z": 1
+        }
+      },
+      "isBase": false
+    },
+    "1716": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -4,
+          "y": 3,
+          "z": 1
+        }
+      },
+      "isBase": false
+    },
+    "1755": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -5,
+          "y": 4,
+          "z": 1
+        }
+      },
+      "isBase": false
+    },
+    "1794": null,
+    "1833": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "18",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -7,
+          "y": 6,
+          "z": 1
+        }
+      },
+      "isBase": false
+    },
+    "1872": null,
+    "1911": null,
+    "2847": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 7,
+          "y": -9,
+          "z": 2
+        }
+      },
+      "isBase": false
+    },
+    "2886": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 6,
+          "y": -8,
+          "z": 2
+        }
+      },
+      "isBase": false
+    },
+    "2925": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 5,
+          "y": -7,
+          "z": 2
+        }
+      },
+      "isBase": false
+    },
+    "2964": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 4,
+          "y": -6,
+          "z": 2
+        }
+      },
+      "isBase": false
+    },
+    "3003": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 3,
+          "y": -5,
+          "z": 2
+        }
+      },
+      "isBase": true
+    },
+    "3042": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 2,
+          "y": -4,
+          "z": 2
+        }
+      },
+      "isBase": false
+    },
+    "3081": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "14",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 1,
+          "y": -3,
+          "z": 2
+        }
+      },
+      "isBase": false
+    },
+    "3120": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 0,
+          "y": -2,
+          "z": 2
+        }
+      },
+      "isBase": false
+    },
+    "3159": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -1,
+          "y": -1,
+          "z": 2
+        }
+      },
+      "isBase": false
+    },
+    "3198": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -2,
+          "y": 0,
+          "z": 2
+        }
+      },
+      "isBase": false
+    },
+    "3237": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -3,
+          "y": 1,
+          "z": 2
+        }
+      },
+      "isBase": false
+    },
+    "3276": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -4,
+          "y": 2,
+          "z": 2
+        }
+      },
+      "isBase": false
+    },
+    "3315": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -5,
+          "y": 3,
+          "z": 2
+        }
+      },
+      "isBase": false
+    },
+    "3354": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -6,
+          "y": 4,
+          "z": 2
+        }
+      },
+      "isBase": false
+    },
+    "3393": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -7,
+          "y": 5,
+          "z": 2
+        }
+      },
+      "isBase": false
+    },
+    "3432": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -8,
+          "y": 6,
+          "z": 2
+        }
+      },
+      "isBase": false
+    },
+    "3471": null,
+    "4446": null,
+    "4485": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 5,
+          "y": -8,
+          "z": 3
+        }
+      },
+      "isBase": false
+    },
+    "4524": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 4,
+          "y": -7,
+          "z": 3
+        }
+      },
+      "isBase": false
+    },
+    "4563": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 3,
+          "y": -6,
+          "z": 3
+        }
+      },
+      "isBase": false
+    },
+    "4602": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "10",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 2,
+          "y": -5,
+          "z": 3
+        }
+      },
+      "isBase": false
+    },
+    "4641": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 1,
+          "y": -4,
+          "z": 3
+        }
+      },
+      "isBase": false
+    },
+    "4680": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 0,
+          "y": -3,
+          "z": 3
+        }
+      },
+      "isBase": false
+    },
+    "4719": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -1,
+          "y": -2,
+          "z": 3
+        }
+      },
+      "isBase": false
+    },
+    "4758": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -2,
+          "y": -1,
+          "z": 3
+        }
+      },
+      "isBase": false
+    },
+    "4797": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -3,
+          "y": 0,
+          "z": 3
+        }
+      },
+      "isBase": false
+    },
+    "4836": {
+      "type": 1,
+      "playerID": "75609f4f-bdf1-417b-a1a0-39a62ba5e19f",
+      "component_id": "7",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -4,
+          "y": 1,
+          "z": 3
+        }
+      },
+      "isBase": true
+    },
+    "4875": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -5,
+          "y": 2,
+          "z": 3
+        }
+      },
+      "isBase": false
+    },
+    "4914": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -6,
+          "y": 3,
+          "z": 3
+        }
+      },
+      "isBase": false
+    },
+    "4953": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -7,
+          "y": 4,
+          "z": 3
+        }
+      },
+      "isBase": false
+    },
+    "4992": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -8,
+          "y": 5,
+          "z": 3
+        }
+      },
+      "isBase": false
+    },
+    "5031": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -9,
+          "y": 6,
+          "z": 3
+        }
+      },
+      "isBase": false
+    },
+    "6045": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 5,
+          "y": -9,
+          "z": 4
+        }
+      },
+      "isBase": false
+    },
+    "6084": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "10",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 4,
+          "y": -8,
+          "z": 4
+        }
+      },
+      "isBase": false
+    },
+    "6123": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 3,
+          "y": -7,
+          "z": 4
+        }
+      },
+      "isBase": false
+    },
+    "6162": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 2,
+          "y": -6,
+          "z": 4
+        }
+      },
+      "isBase": false
+    },
+    "6201": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "10",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 1,
+          "y": -5,
+          "z": 4
+        }
+      },
+      "isBase": false
+    },
+    "6240": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "10",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 0,
+          "y": -4,
+          "z": 4
+        }
+      },
+      "isBase": false
+    },
+    "6279": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -1,
+          "y": -3,
+          "z": 4
+        }
+      },
+      "isBase": false
+    },
+    "6318": null,
+    "6357": {
+      "type": 1,
+      "playerID": "75609f4f-bdf1-417b-a1a0-39a62ba5e19f",
+      "component_id": "7",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -3,
+          "y": -1,
+          "z": 4
+        }
+      },
+      "isBase": false
+    },
+    "6396": {
+      "type": 1,
+      "playerID": "75609f4f-bdf1-417b-a1a0-39a62ba5e19f",
+      "component_id": "7",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -4,
+          "y": 0,
+          "z": 4
+        }
+      },
+      "isBase": false
+    },
+    "6435": {
+      "type": 1,
+      "playerID": "75609f4f-bdf1-417b-a1a0-39a62ba5e19f",
+      "component_id": "7",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -5,
+          "y": 1,
+          "z": 4
+        }
+      },
+      "isBase": false
+    },
+    "6474": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -6,
+          "y": 2,
+          "z": 4
+        }
+      },
+      "isBase": false
+    },
+    "6513": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -7,
+          "y": 3,
+          "z": 4
+        }
+      },
+      "isBase": false
+    },
+    "6552": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -8,
+          "y": 4,
+          "z": 4
+        }
+      },
+      "isBase": false
+    },
+    "6591": null,
+    "7644": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 4,
+          "y": -9,
+          "z": 5
+        }
+      },
+      "isBase": false
+    },
+    "7683": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "10",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 3,
+          "y": -8,
+          "z": 5
+        }
+      },
+      "isBase": false
+    },
+    "7722": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "10",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 2,
+          "y": -7,
+          "z": 5
+        }
+      },
+      "isBase": false
+    },
+    "7761": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 1,
+          "y": -6,
+          "z": 5
+        }
+      },
+      "isBase": false
+    },
+    "7800": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "10",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 0,
+          "y": -5,
+          "z": 5
+        }
+      },
+      "isBase": false
+    },
+    "7839": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "10",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -1,
+          "y": -4,
+          "z": 5
+        }
+      },
+      "isBase": false
+    },
+    "7878": {
+      "type": 1,
+      "playerID": "75609f4f-bdf1-417b-a1a0-39a62ba5e19f",
+      "component_id": "7",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -2,
+          "y": -3,
+          "z": 5
+        }
+      },
+      "isBase": false
+    },
+    "7917": {
+      "type": 1,
+      "playerID": "75609f4f-bdf1-417b-a1a0-39a62ba5e19f",
+      "component_id": "7",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -3,
+          "y": -2,
+          "z": 5
+        }
+      },
+      "isBase": false
+    },
+    "7956": {
+      "type": 1,
+      "playerID": "75609f4f-bdf1-417b-a1a0-39a62ba5e19f",
+      "component_id": "7",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -4,
+          "y": -1,
+          "z": 5
+        }
+      },
+      "isBase": false
+    },
+    "7995": {
+      "type": 1,
+      "playerID": "75609f4f-bdf1-417b-a1a0-39a62ba5e19f",
+      "component_id": "7",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -5,
+          "y": 0,
+          "z": 5
+        }
+      },
+      "isBase": false
+    },
+    "8034": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -6,
+          "y": 1,
+          "z": 5
+        }
+      },
+      "isBase": false
+    },
+    "8073": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -7,
+          "y": 2,
+          "z": 5
+        }
+      },
+      "isBase": false
+    },
+    "8112": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -8,
+          "y": 3,
+          "z": 5
+        }
+      },
+      "isBase": false
+    },
+    "8151": null,
+    "9243": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "10",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 3,
+          "y": -9,
+          "z": 6
+        }
+      },
+      "isBase": false
+    },
+    "9282": {
+      "type": 1,
+      "playerID": "75609f4f-bdf1-417b-a1a0-39a62ba5e19f",
+      "component_id": "1",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 2,
+          "y": -8,
+          "z": 6
+        }
+      },
+      "isBase": false
+    },
+    "9321": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "10",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 1,
+          "y": -7,
+          "z": 6
+        }
+      },
+      "isBase": false
+    },
+    "9360": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "10",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 0,
+          "y": -6,
+          "z": 6
+        }
+      },
+      "isBase": false
+    },
+    "9399": {
+      "type": 1,
+      "playerID": "50ea1675-804d-49db-9302-6b3a9b1d81a9",
+      "component_id": "8",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -1,
+          "y": -5,
+          "z": 6
+        }
+      },
+      "isBase": false
+    },
+    "9438": {
+      "type": 1,
+      "playerID": "50ea1675-804d-49db-9302-6b3a9b1d81a9",
+      "component_id": "8",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -2,
+          "y": -4,
+          "z": 6
+        }
+      },
+      "isBase": false
+    },
+    "9477": {
+      "type": 1,
+      "playerID": "75609f4f-bdf1-417b-a1a0-39a62ba5e19f",
+      "component_id": "7",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -3,
+          "y": -3,
+          "z": 6
+        }
+      },
+      "isBase": false
+    },
+    "9516": {
+      "type": 1,
+      "playerID": "50ea1675-804d-49db-9302-6b3a9b1d81a9",
+      "component_id": "4",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -4,
+          "y": -2,
+          "z": 6
+        }
+      },
+      "isBase": true
+    },
+    "9555": {
+      "type": 1,
+      "playerID": "75609f4f-bdf1-417b-a1a0-39a62ba5e19f",
+      "component_id": "7",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -5,
+          "y": -1,
+          "z": 6
+        }
+      },
+      "isBase": false
+    },
+    "9594": {
+      "type": 1,
+      "playerID": "75609f4f-bdf1-417b-a1a0-39a62ba5e19f",
+      "component_id": "7",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -6,
+          "y": 0,
+          "z": 6
+        }
+      },
+      "isBase": false
+    },
+    "9633": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -7,
+          "y": 1,
+          "z": 6
+        }
+      },
+      "isBase": false
+    },
+    "9672": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -8,
+          "y": 2,
+          "z": 6
+        }
+      },
+      "isBase": false
+    },
+    "9711": {
+      "type": 1,
+      "playerID": "50ea1675-804d-49db-9302-6b3a9b1d81a9",
+      "component_id": "19",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -9,
+          "y": 3,
+          "z": 6
+        }
+      },
+      "isBase": false
+    },
+    "10842": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "10",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 2,
+          "y": -9,
+          "z": 7
+        }
+      },
+      "isBase": false
+    },
+    "10881": {
+      "type": 1,
+      "playerID": "75609f4f-bdf1-417b-a1a0-39a62ba5e19f",
+      "component_id": "1",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 1,
+          "y": -8,
+          "z": 7
+        }
+      },
+      "isBase": true
+    },
+    "10920": {
+      "type": 1,
+      "playerID": "75609f4f-bdf1-417b-a1a0-39a62ba5e19f",
+      "component_id": "1",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 0,
+          "y": -7,
+          "z": 7
+        }
+      },
+      "isBase": false
+    },
+    "10959": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "10",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -1,
+          "y": -6,
+          "z": 7
+        }
+      },
+      "isBase": false
+    },
+    "10998": {
+      "type": 1,
+      "playerID": "50ea1675-804d-49db-9302-6b3a9b1d81a9",
+      "component_id": "8",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -2,
+          "y": -5,
+          "z": 7
+        }
+      },
+      "isBase": false
+    },
+    "11037": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -3,
+          "y": -4,
+          "z": 7
+        }
+      },
+      "isBase": false
+    },
+    "11076": {
+      "type": 1,
+      "playerID": "75609f4f-bdf1-417b-a1a0-39a62ba5e19f",
+      "component_id": "7",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -4,
+          "y": -3,
+          "z": 7
+        }
+      },
+      "isBase": false
+    },
+    "11115": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -5,
+          "y": -2,
+          "z": 7
+        }
+      },
+      "isBase": false
+    },
+    "11154": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -6,
+          "y": -1,
+          "z": 7
+        }
+      },
+      "isBase": false
+    },
+    "11193": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -7,
+          "y": 0,
+          "z": 7
+        }
+      },
+      "isBase": false
+    },
+    "11232": {
+      "type": 1,
+      "playerID": "50ea1675-804d-49db-9302-6b3a9b1d81a9",
+      "component_id": "16",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -8,
+          "y": 1,
+          "z": 7
+        }
+      },
+      "isBase": false
+    },
+    "11271": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -9,
+          "y": 2,
+          "z": 7
+        }
+      },
+      "isBase": false
+    },
+    "12441": {
+      "type": 1,
+      "playerID": "75609f4f-bdf1-417b-a1a0-39a62ba5e19f",
+      "component_id": "1",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 1,
+          "y": -9,
+          "z": 8
+        }
+      },
+      "isBase": false
+    },
+    "12480": {
+      "type": 1,
+      "playerID": "a3bc2c90-6c99-4929-bb56-1ae645a18e2e",
+      "component_id": "2",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 0,
+          "y": -8,
+          "z": 8
+        }
+      },
+      "isBase": false
+    },
+    "12519": {
+      "type": 1,
+      "playerID": "75609f4f-bdf1-417b-a1a0-39a62ba5e19f",
+      "component_id": "1",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -1,
+          "y": -7,
+          "z": 8
+        }
+      },
+      "isBase": false
+    },
+    "12558": {
+      "type": 1,
+      "playerID": "a3bc2c90-6c99-4929-bb56-1ae645a18e2e",
+      "component_id": "2",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -2,
+          "y": -6,
+          "z": 8
+        }
+      },
+      "isBase": false
+    },
+    "12597": {
+      "type": 1,
+      "playerID": "50ea1675-804d-49db-9302-6b3a9b1d81a9",
+      "component_id": "8",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -3,
+          "y": -5,
+          "z": 8
+        }
+      },
+      "isBase": false
+    },
+    "12636": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -4,
+          "y": -4,
+          "z": 8
+        }
+      },
+      "isBase": false
+    },
+    "12675": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -5,
+          "y": -3,
+          "z": 8
+        }
+      },
+      "isBase": false
+    },
+    "12714": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -6,
+          "y": -2,
+          "z": 8
+        }
+      },
+      "isBase": false
+    },
+    "12753": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -7,
+          "y": -1,
+          "z": 8
+        }
+      },
+      "isBase": false
+    },
+    "12792": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -8,
+          "y": 0,
+          "z": 8
+        }
+      },
+      "isBase": false
+    },
+    "12831": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -9,
+          "y": 1,
+          "z": 8
+        }
+      },
+      "isBase": false
+    },
+    "14040": {
+      "type": 1,
+      "playerID": "75609f4f-bdf1-417b-a1a0-39a62ba5e19f",
+      "component_id": "1",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 0,
+          "y": -9,
+          "z": 9
+        }
+      },
+      "isBase": false
+    },
+    "14079": {
+      "type": 1,
+      "playerID": "a3bc2c90-6c99-4929-bb56-1ae645a18e2e",
+      "component_id": "2",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -1,
+          "y": -8,
+          "z": 9
+        }
+      },
+      "isBase": true
+    },
+    "14118": {
+      "type": 1,
+      "playerID": "a3bc2c90-6c99-4929-bb56-1ae645a18e2e",
+      "component_id": "2",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -2,
+          "y": -7,
+          "z": 9
+        }
+      },
+      "isBase": false
+    },
+    "14157": {
+      "type": 1,
+      "playerID": "75609f4f-bdf1-417b-a1a0-39a62ba5e19f",
+      "component_id": "5",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -3,
+          "y": -6,
+          "z": 9
+        }
+      },
+      "isBase": false
+    },
+    "14196": {
+      "type": 1,
+      "playerID": "50ea1675-804d-49db-9302-6b3a9b1d81a9",
+      "component_id": "8",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -4,
+          "y": -5,
+          "z": 9
+        }
+      },
+      "isBase": false
+    },
+    "14235": {
+      "type": 1,
+      "playerID": "50ea1675-804d-49db-9302-6b3a9b1d81a9",
+      "component_id": "8",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -5,
+          "y": -4,
+          "z": 9
+        }
+      },
+      "isBase": false
+    },
+    "14274": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -6,
+          "y": -3,
+          "z": 9
+        }
+      },
+      "isBase": false
+    },
+    "14313": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -7,
+          "y": -2,
+          "z": 9
+        }
+      },
+      "isBase": false
+    },
+    "14352": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -8,
+          "y": -1,
+          "z": 9
+        }
+      },
+      "isBase": false
+    },
+    "14391": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "13",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -9,
+          "y": 0,
+          "z": 9
+        }
+      },
+      "isBase": false
+    },
+    "15639": null,
+    "15678": null,
+    "15717": null,
+    "15756": null,
+    "15795": null,
+    "15834": null,
+    "15873": null,
+    "15912": null,
+    "15951": null,
+    "17238": null,
+    "17277": null,
+    "17316": null,
+    "17355": null,
+    "17394": null,
+    "17433": null,
+    "17472": null,
+    "17511": null,
+    "18837": null,
+    "18876": null,
+    "18915": null,
+    "18954": null,
+    "18993": null,
+    "19032": null,
+    "19071": null,
+    "20436": null,
+    "20475": null,
+    "20514": null,
+    "20553": null,
+    "20592": null,
+    "20631": null,
+    "22035": null,
+    "22074": null,
+    "22113": null,
+    "22152": null,
+    "22191": null,
+    "23634": null,
+    "23673": null,
+    "23712": null,
+    "23751": null,
+    "25233": null,
+    "25272": null,
+    "25311": null,
+    "26832": null,
+    "26871": null,
+    "28431": null,
+    "-10881": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -1,
+          "y": 8,
+          "z": -7
+        }
+      },
+      "isBase": false
+    },
+    "-10920": null,
+    "-10959": null,
+    "-10998": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 2,
+          "y": 5,
+          "z": -7
+        }
+      },
+      "isBase": false
+    },
+    "-11037": null,
+    "-11076": null,
+    "-11115": null,
+    "-11154": null,
+    "-11193": null,
+    "-11232": {
+      "type": 1,
+      "playerID": "f16b2be3-b32a-4294-8c15-942b68ef87c8",
+      "component_id": "11",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 8,
+          "y": -1,
+          "z": -7
+        }
+      },
+      "isBase": false
+    },
+    "-11271": {
+      "type": 1,
+      "playerID": "f16b2be3-b32a-4294-8c15-942b68ef87c8",
+      "component_id": "11",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 9,
+          "y": -2,
+          "z": -7
+        }
+      },
+      "isBase": false
+    },
+    "-117": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 3,
+          "y": -3,
+          "z": 0
+        }
+      },
+      "isBase": false
+    },
+    "-12480": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 0,
+          "y": 8,
+          "z": -8
+        }
+      },
+      "isBase": false
+    },
+    "-12519": null,
+    "-12558": null,
+    "-12597": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 3,
+          "y": 5,
+          "z": -8
+        }
+      },
+      "isBase": false
+    },
+    "-12636": null,
+    "-12675": null,
+    "-12714": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 6,
+          "y": 2,
+          "z": -8
+        }
+      },
+      "isBase": false
+    },
+    "-12753": {
+      "type": 0,
+      "playerID": "f16b2be3-b32a-4294-8c15-942b68ef87c8",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 7,
+          "y": 1,
+          "z": -8
+        }
+      },
+      "isBase": true
+    },
+    "-12792": null,
+    "-1287": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "18",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -7,
+          "y": 8,
+          "z": -1
+        }
+      },
+      "isBase": false
+    },
+    "-1326": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "18",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -6,
+          "y": 7,
+          "z": -1
+        }
+      },
+      "isBase": false
+    },
+    "-1365": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -5,
+          "y": 6,
+          "z": -1
+        }
+      },
+      "isBase": false
+    },
+    "-1404": null,
+    "-14079": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 1,
+          "y": 8,
+          "z": -9
+        }
+      },
+      "isBase": false
+    },
+    "-14118": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 2,
+          "y": 7,
+          "z": -9
+        }
+      },
+      "isBase": false
+    },
+    "-14157": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 3,
+          "y": 6,
+          "z": -9
+        }
+      },
+      "isBase": false
+    },
+    "-14196": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 4,
+          "y": 5,
+          "z": -9
+        }
+      },
+      "isBase": false
+    },
+    "-14235": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 5,
+          "y": 4,
+          "z": -9
+        }
+      },
+      "isBase": false
+    },
+    "-14274": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 6,
+          "y": 3,
+          "z": -9
+        }
+      },
+      "isBase": false
+    },
+    "-14313": null,
+    "-14352": null,
+    "-1443": null,
+    "-1482": null,
+    "-1521": null,
+    "-156": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 4,
+          "y": -4,
+          "z": 0
+        }
+      },
+      "isBase": false
+    },
+    "-1560": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 0,
+          "y": 1,
+          "z": -1
+        }
+      },
+      "isBase": false
+    },
+    "-15678": null,
+    "-15717": null,
+    "-15756": null,
+    "-15795": null,
+    "-15834": null,
+    "-15873": {
+      "type": 0,
+      "playerID": "f16b2be3-b32a-4294-8c15-942b68ef87c8",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 7,
+          "y": 3,
+          "z": -10
+        }
+      },
+      "isBase": false
+    },
+    "-15912": null,
+    "-1599": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 1,
+          "y": 0,
+          "z": -1
+        }
+      },
+      "isBase": false
+    },
+    "-1638": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 2,
+          "y": -1,
+          "z": -1
+        }
+      },
+      "isBase": false
+    },
+    "-1677": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 3,
+          "y": -2,
+          "z": -1
+        }
+      },
+      "isBase": false
+    },
+    "-1716": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 4,
+          "y": -3,
+          "z": -1
+        }
+      },
+      "isBase": false
+    },
+    "-17277": null,
+    "-17316": null,
+    "-17355": null,
+    "-17394": null,
+    "-17433": null,
+    "-17472": null,
+    "-1755": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 5,
+          "y": -4,
+          "z": -1
+        }
+      },
+      "isBase": false
+    },
+    "-1794": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 6,
+          "y": -5,
+          "z": -1
+        }
+      },
+      "isBase": false
+    },
+    "-1833": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 7,
+          "y": -6,
+          "z": -1
+        }
+      },
+      "isBase": false
+    },
+    "-1872": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 8,
+          "y": -7,
+          "z": -1
+        }
+      },
+      "isBase": false
+    },
+    "-18876": null,
+    "-18915": null,
+    "-18954": null,
+    "-18993": null,
+    "-19032": null,
+    "-1911": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 9,
+          "y": -8,
+          "z": -1
+        }
+      },
+      "isBase": false
+    },
+    "-195": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 5,
+          "y": -5,
+          "z": 0
+        }
+      },
+      "isBase": false
+    },
+    "-20475": null,
+    "-20514": null,
+    "-20553": null,
+    "-20592": null,
+    "-22074": null,
+    "-22113": null,
+    "-22152": null,
+    "-234": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 6,
+          "y": -6,
+          "z": 0
+        }
+      },
+      "isBase": false
+    },
+    "-23673": null,
+    "-23712": null,
+    "-25272": null,
+    "-273": null,
+    "-2886": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "18",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -6,
+          "y": 8,
+          "z": -2
+        }
+      },
+      "isBase": false
+    },
+    "-2925": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -5,
+          "y": 7,
+          "z": -2
+        }
+      },
+      "isBase": false
+    },
+    "-2964": null,
+    "-3003": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -3,
+          "y": 5,
+          "z": -2
+        }
+      },
+      "isBase": false
+    },
+    "-3042": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -2,
+          "y": 4,
+          "z": -2
+        }
+      },
+      "isBase": false
+    },
+    "-3081": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -1,
+          "y": 3,
+          "z": -2
+        }
+      },
+      "isBase": false
+    },
+    "-312": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 8,
+          "y": -8,
+          "z": 0
+        }
+      },
+      "isBase": false
+    },
+    "-3120": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 0,
+          "y": 2,
+          "z": -2
+        }
+      },
+      "isBase": false
+    },
+    "-3159": null,
+    "-3198": null,
+    "-3237": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 3,
+          "y": -1,
+          "z": -2
+        }
+      },
+      "isBase": false
+    },
+    "-3276": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 4,
+          "y": -2,
+          "z": -2
+        }
+      },
+      "isBase": false
+    },
+    "-3315": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 5,
+          "y": -3,
+          "z": -2
+        }
+      },
+      "isBase": false
+    },
+    "-3354": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 6,
+          "y": -4,
+          "z": -2
+        }
+      },
+      "isBase": false
+    },
+    "-3393": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 7,
+          "y": -5,
+          "z": -2
+        }
+      },
+      "isBase": false
+    },
+    "-3432": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 8,
+          "y": -6,
+          "z": -2
+        }
+      },
+      "isBase": false
+    },
+    "-3471": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 9,
+          "y": -7,
+          "z": -2
+        }
+      },
+      "isBase": false
+    },
+    "-351": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 9,
+          "y": -9,
+          "z": 0
+        }
+      },
+      "isBase": false
+    },
+    "-39": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 1,
+          "y": -1,
+          "z": 0
+        }
+      },
+      "isBase": false
+    },
+    "-4485": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "18",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -5,
+          "y": 8,
+          "z": -3
+        }
+      },
+      "isBase": false
+    },
+    "-4524": null,
+    "-4563": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -3,
+          "y": 6,
+          "z": -3
+        }
+      },
+      "isBase": false
+    },
+    "-4602": null,
+    "-4641": null,
+    "-4680": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 0,
+          "y": 3,
+          "z": -3
+        }
+      },
+      "isBase": false
+    },
+    "-4719": null,
+    "-4758": {
+      "type": 1,
+      "playerID": "f16b2be3-b32a-4294-8c15-942b68ef87c8",
+      "component_id": "15",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 2,
+          "y": 1,
+          "z": -3
+        }
+      },
+      "isBase": false
+    },
+    "-4797": {
+      "type": 1,
+      "playerID": "f16b2be3-b32a-4294-8c15-942b68ef87c8",
+      "component_id": "15",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 3,
+          "y": 0,
+          "z": -3
+        }
+      },
+      "isBase": false
+    },
+    "-4836": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 4,
+          "y": -1,
+          "z": -3
+        }
+      },
+      "isBase": false
+    },
+    "-4875": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 5,
+          "y": -2,
+          "z": -3
+        }
+      },
+      "isBase": false
+    },
+    "-4914": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 6,
+          "y": -3,
+          "z": -3
+        }
+      },
+      "isBase": false
+    },
+    "-4953": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 7,
+          "y": -4,
+          "z": -3
+        }
+      },
+      "isBase": false
+    },
+    "-4992": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 8,
+          "y": -5,
+          "z": -3
+        }
+      },
+      "isBase": false
+    },
+    "-5031": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 9,
+          "y": -6,
+          "z": -3
+        }
+      },
+      "isBase": false
+    },
+    "-6045": {
+      "type": 0,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -5,
+          "y": 9,
+          "z": -4
+        }
+      },
+      "isBase": false
+    },
+    "-6084": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "18",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -4,
+          "y": 8,
+          "z": -4
+        }
+      },
+      "isBase": false
+    },
+    "-6123": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -3,
+          "y": 7,
+          "z": -4
+        }
+      },
+      "isBase": false
+    },
+    "-6162": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -2,
+          "y": 6,
+          "z": -4
+        }
+      },
+      "isBase": false
+    },
+    "-6201": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -1,
+          "y": 5,
+          "z": -4
+        }
+      },
+      "isBase": false
+    },
+    "-6240": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 0,
+          "y": 4,
+          "z": -4
+        }
+      },
+      "isBase": false
+    },
+    "-6279": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 1,
+          "y": 3,
+          "z": -4
+        }
+      },
+      "isBase": false
+    },
+    "-6318": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 2,
+          "y": 2,
+          "z": -4
+        }
+      },
+      "isBase": false
+    },
+    "-6357": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "12",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 3,
+          "y": 1,
+          "z": -4
+        }
+      },
+      "isBase": false
+    },
+    "-6396": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "12",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 4,
+          "y": 0,
+          "z": -4
+        }
+      },
+      "isBase": false
+    },
+    "-6435": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "6",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 5,
+          "y": -1,
+          "z": -4
+        }
+      },
+      "isBase": false
+    },
+    "-6474": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 6,
+          "y": -2,
+          "z": -4
+        }
+      },
+      "isBase": false
+    },
+    "-6513": {
+      "type": 1,
+      "playerID": "f16b2be3-b32a-4294-8c15-942b68ef87c8",
+      "component_id": "11",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 7,
+          "y": -3,
+          "z": -4
+        }
+      },
+      "isBase": false
+    },
+    "-6552": {
+      "type": 1,
+      "playerID": "f16b2be3-b32a-4294-8c15-942b68ef87c8",
+      "component_id": "11",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 8,
+          "y": -4,
+          "z": -4
+        }
+      },
+      "isBase": false
+    },
+    "-7683": null,
+    "-7722": null,
+    "-7761": null,
+    "-78": null,
+    "-7800": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 0,
+          "y": 5,
+          "z": -5
+        }
+      },
+      "isBase": false
+    },
+    "-7839": null,
+    "-7878": null,
+    "-7917": null,
+    "-7956": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "12",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 4,
+          "y": 1,
+          "z": -5
+        }
+      },
+      "isBase": false
+    },
+    "-7995": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "12",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 5,
+          "y": 0,
+          "z": -5
+        }
+      },
+      "isBase": false
+    },
+    "-8034": {
+      "type": 1,
+      "playerID": "a1322c04-1029-4bb4-92d0-34d865c90e46",
+      "component_id": "12",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 6,
+          "y": -1,
+          "z": -5
+        }
+      },
+      "isBase": false
+    },
+    "-8073": {
+      "type": 1,
+      "playerID": "f16b2be3-b32a-4294-8c15-942b68ef87c8",
+      "component_id": "11",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 7,
+          "y": -2,
+          "z": -5
+        }
+      },
+      "isBase": false
+    },
+    "-8112": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 8,
+          "y": -3,
+          "z": -5
+        }
+      },
+      "isBase": false
+    },
+    "-8151": {
+      "type": 1,
+      "playerID": "f16b2be3-b32a-4294-8c15-942b68ef87c8",
+      "component_id": "11",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 9,
+          "y": -4,
+          "z": -5
+        }
+      },
+      "isBase": false
+    },
+    "-9282": null,
+    "-9321": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": -1,
+          "y": 7,
+          "z": -6
+        }
+      },
+      "isBase": false
+    },
+    "-9360": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 0,
+          "y": 6,
+          "z": -6
+        }
+      },
+      "isBase": false
+    },
+    "-9399": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 1,
+          "y": 5,
+          "z": -6
+        }
+      },
+      "isBase": false
+    },
+    "-9438": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 2,
+          "y": 4,
+          "z": -6
+        }
+      },
+      "isBase": false
+    },
+    "-9477": {
+      "type": 1,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": "17",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 3,
+          "y": 3,
+          "z": -6
+        }
+      },
+      "isBase": false
+    },
+    "-9516": {
+      "type": 1,
+      "playerID": "f16b2be3-b32a-4294-8c15-942b68ef87c8",
+      "component_id": "11",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 4,
+          "y": 2,
+          "z": -6
+        }
+      },
+      "isBase": false
+    },
+    "-9555": {
+      "type": 1,
+      "playerID": "f16b2be3-b32a-4294-8c15-942b68ef87c8",
+      "component_id": "11",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 5,
+          "y": 1,
+          "z": -6
+        }
+      },
+      "isBase": true
+    },
+    "-9594": {
+      "type": 1,
+      "playerID": "f16b2be3-b32a-4294-8c15-942b68ef87c8",
+      "component_id": "11",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 6,
+          "y": 0,
+          "z": -6
+        }
+      },
+      "isBase": false
+    },
+    "-9633": {
+      "type": 1,
+      "playerID": "f16b2be3-b32a-4294-8c15-942b68ef87c8",
+      "component_id": "11",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 7,
+          "y": -1,
+          "z": -6
+        }
+      },
+      "isBase": false
+    },
+    "-9672": {
+      "type": 0,
+      "playerID": "f4fecfed-59a6-4341-a093-6cc9c26497ed",
+      "component_id": null,
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 8,
+          "y": -2,
+          "z": -6
+        }
+      },
+      "isBase": false
+    },
+    "-9711": {
+      "type": 1,
+      "playerID": "f16b2be3-b32a-4294-8c15-942b68ef87c8",
+      "component_id": "11",
+      "p": {
+        "page": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "cell": {
+          "x": 9,
+          "y": -3,
+          "z": -6
+        }
+      },
+      "isBase": false
+    }
+  },
+  "components": {}
+}
